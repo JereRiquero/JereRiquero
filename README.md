@@ -5,7 +5,8 @@ Esto me llevo a aprender de forma autodidacta los lenguajes para convertirme en 
 tengo experiencia en proyectos realizados junto a desarrolladores independientes.
 Actualmente estoy buscando la oportunidad de trabajar como Front-end Developer dentro de una empresa para aumentar mis conocimientos en el campo y crecer dentro de ella.
 
-Habilidades:  JS / HTML / CSS / PYTHON / JAVA
+<h3 align="left">Lenguajes y herramientas:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> </a> </p>
 
 - 🔭 Estoy trabajando en mi portfolio profesional 
 - 🌱 Estoy aprendiendo Ingles.A2 / MySQl - JAVA - Python - MongoDB 
