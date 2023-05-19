@@ -9,7 +9,7 @@ Habilidades:  JS / HTML / CSS / PYTHON / JAVA
 
 - 🔭 Estoy trabajando en mi portfolio profesional 
 - 🌱 Estoy aprendiendo Ingles.A2 / MySQl - JAVA - Python - MongoDB 
-- 👯 Quiero colaborar con [@Abelino537](https://github.com/Abelino537)
+- 🤝 Quiero colaborar con [@Abelino537](https://github.com/Abelino537)
 - 📫 Cómo contactarme: +542604662738 
 
 
