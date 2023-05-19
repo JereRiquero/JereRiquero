@@ -10,7 +10,7 @@ Habilidades:  JS / HTML / CSS / PYTHON / JAVA
 - 🔭 Estoy trabajando en mi portfolio profesional 
 - 🌱 Estoy aprendiendo Ingles.A2 / MySQl - JAVA - Python - MongoDB 
 - 🤝 Quiero colaborar con [@Abelino537](https://github.com/Abelino537)
-- 📫 Cómo contactarme: +542604662738 
+- 📱 Cómo contactarme: +542604662738 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/JereRiquero)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/jeremias/riquero/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='25'>](https://elementalcoders.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='25'>](https://mail.google.com/mail/u/0/?pli=1#inbox)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='25'>](https://discord.com/channels/@me)  
