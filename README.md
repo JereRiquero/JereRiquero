@@ -1,6 +1,6 @@
 ### Hola 👋, Mi nombre es Jeremias Riquero
 #### Desarrollador Front-end
-Estoy cursando el ultimo año en la Tecnicatura Universitaria en Programación de la UTN. En este tiempo que llevo recorrido en la carrera me di cuenta cuanto me apasiona la programación, el diseño y desarrollo de paginas web.
+Tengo 19 años y estoy cursando el ultimo año en la Tecnicatura Universitaria en Programación de la UTN. En este tiempo que llevo recorrido en la carrera me di cuenta cuanto me apasiona la programación, el diseño y desarrollo de paginas web.
 Esto me llevo a aprender de forma autodidacta los lenguajes para convertirme en un Front-end Developer, 
 tengo experiencia en proyectos realizados junto a desarrolladores independientes.
 Actualmente estoy buscando la oportunidad de trabajar como Front-end Developer dentro de una empresa para aumentar mis conocimientos en el campo y crecer dentro de ella.
