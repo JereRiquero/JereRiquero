@@ -16,4 +16,5 @@ Actualmente estoy buscando la oportunidad de trabajar como Front-end Developer d
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/JereRiquero)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/jeremias-riquero-45466022b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='25'>](https://elementalcoders.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='25'>](https://discord.com/channels/@me)  
 
+## Gráfico de actividad 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JereRiquero)](https://github.com/anuraghazra/github-readme-stats)
